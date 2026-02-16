@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ansh Mani Tripathi",
+      "email": "ansh@example.com",
+      "password": "admin123",
+      "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "name": "Utkarsh Mishra",
+      "email": "uk@mishra.com",
+      "password": "user123",
+      "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "name": "Raman Kumar Mishra",
+      "email": "raman@example.com",
+      "password": "user123",
+      "role": "Editor",
+      "status": "Inactive"
+    },
+    {
+      "id": "4",
+      "name": "Akash Sharma",
+      "email": "akash@example.com",
+      "password": "user123",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "6",
+      "name": "Diwakar",
+      "email": "dk@example.com",
+      "password": "user123",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "7",
+      "name": "Paras",
+      "email": "paras@example.com",
+      "password": "editor123",
+      "role": "Editor",
+      "status": "Active"
+    },
+    {
+      "id": "8",
+      "name": "Sneha Kapoor",
+      "email": "sneha.kapoor@example.com",
+      "password": "user123",
+      "role": "User",
+      "status": "Inactive"
+    },
+    {
+      "id": "9",
+      "name": "Amit Yadav",
+      "email": "amit.yadav@example.com",
+      "password": "admin123",
+      "role": "Editor",
+      "status": "Active"
+    },
+    {
+      "id": "10",
+      "name": "Kavya Nair",
+      "email": "kavya.nair@example.com",
+      "password": "user123",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "11",
+      "name": "Arjun Patel",
+      "email": "arjun.patel@example.com",
+      "password": "editor123",
+      "role": "Editor",
+      "status": "Active"
+    },
+    {
+      "id": "12",
+      "name": "Meera Joshi",
+      "email": "meera.joshi@example.com",
+      "password": "user123",
+      "role": "User",
+      "status": "Inactive"
+    },
+    {
+      "id": "13",
+      "name": "Vikram Singh",
+      "email": "vikram.singh@example.com",
+      "password": "user123",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "14",
+      "name": "Neha Agarwal",
+      "email": "neha.agarwal@example.com",
+      "password": "admin123",
+      "role": "Editor",
+      "status": "Inactive"
+    },
+    {
+      "id": "15",
+      "name": "Karan Malhotra",
+      "email": "karan.malhotra@example.com",
+      "password": "user123",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "d584",
+      "name": "abcd",
+      "email": "abcd@gmail.com",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "f8a7",
+      "name": "Raman Kumar Mishra",
+      "email": "raman@mishara.com",
+      "role": "User",
+      "status": "Active"
+    },
+    {
+      "id": "b7e3",
+      "name": "anssh",
+      "email": "abcd@gmail.com",
+      "role": "User",
+      "status": "Active"
+    }
+  ]
+}
